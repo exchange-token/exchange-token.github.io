@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://exchange-token.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/features" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/features?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/features?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/architecture</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/architecture" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/architecture?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/architecture?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/pricing" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/pricing?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/pricing?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/testimonials</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/testimonials" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/testimonials?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/testimonials?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/faq" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/faq?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/faq?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/contact" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/contact?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/contact?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exchange-token.github.io/checkout</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exchange-token.github.io/checkout" />
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://exchange-token.github.io/checkout?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://exchange-token.github.io/checkout?lang=zh-TW" />
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
